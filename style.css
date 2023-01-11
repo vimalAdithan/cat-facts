@@ -1,0 +1,13 @@
+h1{
+    color: rgb(36, 93, 143);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    color: rgb(170, 49, 45);
+    font-weight: bold;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.container{
+    justify-items: center;
+}
